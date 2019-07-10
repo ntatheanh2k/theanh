@@ -1,0 +1,270 @@
+.all{
+  width: 1200px;
+  height: auto;
+  border: 1px dashed #787878;
+  margin: auto;
+}
+header{
+  width: 1200px;
+  height: 100px;
+}
+.header1{
+  width: 1200px;
+  height: 70px;
+  float: left;
+}
+.con1_header1{
+  float: left;
+  width: 50%;
+  height: auto;
+}
+.logoh1{
+  margin-left: 40px;
+  margin-top: 10px;
+}
+.con2_header1{
+  float: left;
+  width: 50%;
+  height: auto;
+}
+.chau1_con2{
+  float: left;
+  width: 500px;
+  height: 50px;
+  margin-top: 20px;
+}
+.iph1{
+  width: 150px;
+  margin-left: 200px;
+}.iph2{
+   margin-left: -8px;
+ }
+.chau2_con2{
+  float: left;
+  width: 100px;
+  height: 50px;
+  margin-top: 20px;
+}
+.header2{
+  width: 1200px;
+  height: 30px;
+  float: left;
+  background: #CCCCCC;
+  line-height: 30px;
+}
+.header2 #DS1 li{
+  float: left;
+  list-style: none;
+  margin-top: -16px;
+  margin-left: 20px;
+  width: 115px;
+  font-size: 16px;
+  font-family: "Myriad Pro";
+  color: #34404b;
+  text-align: center;
+}
+.header2 #DS1 li:hover{
+  background: #34404b;
+  color:white;
+}
+section{
+  width: 1200px;
+  height: 600px;
+}
+.section1{
+  width: 50%;
+  float: left;
+}
+.section1b{
+  float: left;
+  width: 100%;
+  height: 100px;
+  background: white;
+}
+.ims1a{
+  margin-left: 200px;
+}
+.section1 .section1b .section1b_Tren{
+  margin-left: 60px;
+}
+.b1{
+  font-size: 20px;
+  font-family: "Myriad Pro";
+}
+.section1 .section1b .section1b_Tren Button{
+  height: 35px;
+  width: 125px;
+  background: white;
+  font-family: inherit;
+  color: limegreen;
+  border-radius: 5px;
+  border: 1px solid limegreen;
+}
+.section1 .section1b .section1b_Tren a{
+  font-family: "Myriad Pro";
+  text-decoration: none;
+  color: #000;
+}
+.section1a{
+  float: left;
+  width: 100%;
+  height: 450px;
+}
+.section2{
+  float: left;
+  width: 50%;
+  height: 550px;
+  margin-top: 40px;
+}
+.con1_s2{
+  float: left;
+  width: 600px;
+  height: 150px;
+  text-align: left;
+  border-bottom: 1px solid #5b5a5a;
+  font-family: "Myriad Pro";
+  color: #5b5a5a;
+  text-align: left ;
+}
+.chau1_c1{
+  float: left;
+  width: 600px;
+  height: 50px;
+  font-size: 60px;
+}
+.chau2_c1{
+  float: left;
+  width: 600px;
+  height: 50px;
+}
+.chat_chau2{
+  float: left;
+  width: 300px;
+  height: 40px;
+}
+.sao{
+  float: left;
+  width: 20px;
+  height: 5px;
+}
+.chat2_chau2{
+  float: left;
+  width: 300px;
+  height: 40px;
+}
+.textc2{
+  float: left;
+  width: 150px;
+  height: 40px;
+  margin-top: -10px;
+}
+b{
+  font-size: 25px;
+}
+.c1{
+  margin-top: -5px;
+  font-size: 15px;
+}
+.chau3_c1{
+  float: left;
+  width: 600px;
+  height: 50px;
+}
+.chat_c3{
+  float: left;
+  width: 100px;
+  height: 50px;
+}
+.chat2_c3{
+  float: left;
+  width: 200px;
+  height: 50px;
+  margin-left: 300px;
+}
+.c2{
+  margin-top: -5px;
+}
+.con2_s2{
+  float: left;
+  width: 600px;
+  height: 300px;
+  font-family: "Myriad Pro";
+  color: white;
+  border-bottom: #787878 1px solid;
+}
+.chau_con2s2{
+  float: left;
+  width: 600px;
+  height: 30px;
+}
+.chau2_con2s2{
+  float: left;
+  width: 600px;
+  font-size: 100px;
+}
+.dem{
+  float: left;
+  width: 130px;background-color: blue;
+  height: 180px;
+  margin-left: 15px;
+  margin-top: 30px;
+  font-size: 30px;
+  text-align: center;
+  border: 2px solid #787878;
+  border-radius: 15px;
+  background-color: #00c8c8;
+}
+.a{
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+  margin-left: 15px;
+  margin-bottom: 0px;
+  border-bottom: 1px groove #787878;
+  border-radius: 10px;
+
+  font-size: 80px;
+}
+.b{
+  width: 100px;
+  height: 60px;
+  margin-top: -30px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+.con3_s2{
+  float: left;
+  width: 600px;
+  height: 50px;
+  border-bottom: #787878 solid 1px;
+}
+.chau1_con3{
+  float: left;
+  width: 150px;
+  height: 40px;
+  font-family: "Myriad Pro";
+  font-size: 15px;
+  color: #5b5a5a;
+  margin-top: 5px;
+  border-right: 3px solid #787878;
+  text-align: center;
+}
+.chau2_con3{
+  float: left;
+  width: 150px;
+  height: 40px;
+  margin-top: 5px;
+  font-family: "Myriad Pro";
+  font-size: 15px;
+  color: #5b5a5a;
+  text-align: center;
+}
+.pc3{
+  margin-top: 5px;
+}
+
+footer{
+  width: 1200px;
+  height: 50px;
+  background: #34404b;
+}
